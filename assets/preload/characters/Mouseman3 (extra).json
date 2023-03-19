@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				110
+			],
+			"anim": "laugh",
+			"fps": 22,
+			"name": "Suicide Left (hit laugh)",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				50
+			],
+			"loop": true,
+			"fps": 22,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Suicide Scream"
+		},
+		{
+			"offsets": [
+				-120,
+				50
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "Suicide Scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suicide (EXTRA STUFF)",
+	"position": [
+		250,
+		250
+	],
+	"healthicon": "extra",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-410,
+		-230
+	],
+	"sing_duration": 5.1,
+	"scale": 2
+}
